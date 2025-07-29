@@ -10,7 +10,10 @@ We analyzed the usability, functionality, GUI, and accessibility of the local ne
 **Team:** Lia Prokopiev & Yuri Kirsanov  
 **Course:** QA09 – June 2025  
 **Website tested:** [ashdodnet.com](http://ashdodnet.com/)  
-**Report format:** PDF (Canva presentation style)
+**Report format:** PDF 
+OR
+You can view the full presentation [Online](https://www.canva.com/design/DAGpx_uW33c/6TawYswhY-YkpsuWGoY5CA/view?utm_content=DAGpx_uW33c&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6e83c85794#1).
+
 
 ---
 
